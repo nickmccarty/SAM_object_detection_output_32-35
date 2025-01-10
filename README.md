@@ -1,4 +1,4 @@
-> Hi there!👋😃
+> Hi there! 👋😃
 >
 > Below you'll find an overview of the deliverables being submitted for your perusal 👇
 
