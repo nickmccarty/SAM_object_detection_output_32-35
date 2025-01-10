@@ -1,7 +1,6 @@
 > Hi there!👋😃
 >
 > Below you'll find an overview of the deliverables being submitted for your perusal 👇
-> Only you and I have access to this repo; please do let me know if you want me to send any additional email invites.
 
 # Overview
 
