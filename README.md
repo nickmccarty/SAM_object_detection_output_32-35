@@ -30,11 +30,11 @@ As for Type I error (False Positive, or detecting a pot when there is no pot to 
 
 Regarding accuracy:
 
-* FlyPix average deviation (`32-35_transparent_mosaic_group1_20241121163322.tif`): 1.394 cm
-* SAM average deviation (`32.tif`): 1.199 cm
-* SAM average deviation (`33.tif`): 1.219 cm
-* SAM average deviation (`34.tif`): 1.181 cm
-* SAM average deviation (`35.tif`): 1.070 cm 
+* FlyPix average deviation ([`32-35_transparent_mosaic_group1_20241121163322.tif`](https://drive.google.com/file/d/1yk3OA8OIgmL8BYlZnO5rl0ZJhcQzRslA/view?usp=sharing)): 1.394 cm
+* SAM average deviation ([`32.tif`](https://drive.google.com/file/d/17TsZtBEhz9w3ymWQb7dllykLDIaCpYPg/view?usp=sharing)): 1.199 cm
+* SAM average deviation ([`33.tif`](https://drive.google.com/file/d/1NR6nKKw-MGjxFQQPExBPtURTspkpY1n5/view?usp=sharing)): 1.219 cm
+* SAM average deviation ([`34.tif`](https://drive.google.com/file/d/1bWFN69mWeXfez9DtQqapQ6e2EnriSVFy/view?usp=sharing)): 1.181 cm
+* SAM average deviation ([`35.tif`](https://drive.google.com/file/d/1u1AOgR9OYWjCsKGLkbHNAHIx5j3UEsm0/view?usp=sharing)): 1.070 cm 
 
 **Total SAM average deviation (32-35)**: 1.167 cm --> <ins>19.52% more accurate</ins>
 
@@ -52,7 +52,7 @@ As was mentioned in the last recorded update, further refinement is required to 
 
 | Ortho               | SAM Accuracy Check                                                                                                                |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| `32.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OUnxhLMZPggSDUSCRIOmL9SdxFM-0Tg8?usp=sharing#offline=true&sandboxMode=true) |
-| `33.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nkpVChniGlSlL22rOsGKso-uk7_-n4JA?usp=sharing#offline=true&sandboxMode=true) |
-| `34.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bphUISx8zppOaMUqFwryZW9R7uGvoOOg?usp=sharing#offline=true&sandboxMode=true) |
-| `35.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOspO6mzrvFjvZK47v-GOiV3znvX0xsy?usp=sharing#offline=true&sandboxMode=true) |
+| [`32.tif`](https://drive.google.com/file/d/17TsZtBEhz9w3ymWQb7dllykLDIaCpYPg/view?usp=sharing)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OUnxhLMZPggSDUSCRIOmL9SdxFM-0Tg8?usp=sharing#offline=true&sandboxMode=true) |
+| [`33.tif`](https://drive.google.com/file/d/1NR6nKKw-MGjxFQQPExBPtURTspkpY1n5/view?usp=sharing)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nkpVChniGlSlL22rOsGKso-uk7_-n4JA?usp=sharing#offline=true&sandboxMode=true) |
+| [`34.tif`](https://drive.google.com/file/d/1bWFN69mWeXfez9DtQqapQ6e2EnriSVFy/view?usp=sharing)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bphUISx8zppOaMUqFwryZW9R7uGvoOOg?usp=sharing#offline=true&sandboxMode=true) |
+| [`35.tif`](https://drive.google.com/file/d/1u1AOgR9OYWjCsKGLkbHNAHIx5j3UEsm0/view?usp=sharing)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOspO6mzrvFjvZK47v-GOiV3znvX0xsy?usp=sharing#offline=true&sandboxMode=true) |
