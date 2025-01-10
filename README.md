@@ -49,7 +49,10 @@ As was mentioned in the last recorded update, further refinement is required to 
 # References
 
 * FlyPix accuracy check ([link to Colab notebook](https://colab.research.google.com/drive/1LoZu_Lh9QqJCDyTn9d2XPJ8R6BgBAyBB?usp=sharing#offline=true&sandboxMode=true))
-* SAM `32.tif` accuracy check ([link to Colab notebook](https://colab.research.google.com/drive/1OUnxhLMZPggSDUSCRIOmL9SdxFM-0Tg8?usp=sharing#offline=true&sandboxMode=true))
-* SAM `33.tif` accuracy check ([link to Colab notebook](https://colab.research.google.com/drive/1nkpVChniGlSlL22rOsGKso-uk7_-n4JA?usp=sharing#offline=true&sandboxMode=true))
-* SAM `34.tif` accuracy check ([link to Colab notebook](https://colab.research.google.com/drive/1bphUISx8zppOaMUqFwryZW9R7uGvoOOg?usp=sharing#offline=true&sandboxMode=true))
-* SAM `35.tif` accuracy check ([link to Colab notebook](https://colab.research.google.com/drive/1lOspO6mzrvFjvZK47v-GOiV3znvX0xsy?usp=sharing#offline=true&sandboxMode=true))
+
+| Ortho               | SAM Accuracy Check                                                                                                                |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| `32.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OUnxhLMZPggSDUSCRIOmL9SdxFM-0Tg8?usp=sharing#offline=true&sandboxMode=true) |
+| `33.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nkpVChniGlSlL22rOsGKso-uk7_-n4JA?usp=sharing#offline=true&sandboxMode=true) |
+| `34.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bphUISx8zppOaMUqFwryZW9R7uGvoOOg?usp=sharing#offline=true&sandboxMode=true) |
+| `35.tif`      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOspO6mzrvFjvZK47v-GOiV3znvX0xsy?usp=sharing#offline=true&sandboxMode=true) |
