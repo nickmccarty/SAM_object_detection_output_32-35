@@ -7,19 +7,19 @@
 The zip file contains the following, and can be downloaded by clicking [this link](https://github.com/nickmccarty/SAM_object_detection_output_32-35/raw/refs/heads/main/SAM_object_detection_output.zip?download=) (alternatively, you can go to [this page](https://github.com/nickmccarty/SAM_object_detection_output_32-35/blob/main/SAM_object_detection_output.zip) and click the download icon):
 
 ```
-SAM_object_detection_output.zip
+SAM_object_detection_output
 ├── tif_32_centroids_wgs84.csv
 ├── tif_32_deviation_report.xlsx
-├── tif_32_filtered_detections.geojson
+├── tif_32_merged_detections.geojson
 ├── tif_33_centroids_wgs84.csv
 ├── tif_33_deviation_report.xlsx
-├── tif_33_filtered_detections.geojson
+├── tif_33_merged_detections.geojson
 ├── tif_34_centroids_wgs84.csv
 ├── tif_34_deviation_report.xlsx
-├── tif_34_filtered_detections.geojson
+├── tif_34_merged_detections.geojson
 ├── tif_35_centroids_wgs84.csv
 ├── tif_35_deviation_report.xlsx
-└── tif_35_filtered_detections.geojson
+└── tif_35_merged_detections.geojson
 ```
 
 # Results
