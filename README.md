@@ -26,7 +26,7 @@ SAM_object_detection_output
 
 The recognized limitation with the Hough Circle detection-oriented approach used previously was an unacceptably high number of False Negatives (failures to detect a pot when there was a pot to be detected). Having manually QC'd the SAM-generated `.geojson` output in QGIS, there are a total of 80 pots that were undesireably filtered out by our automated workflow; out of ~16,000 detected pots, that is a Type II (False Negative) error rate of 0.5%.
 
-As for Type I error (False Positive, or detecting a pot when there is no pot to detect), there are a few polygons (e.g., green box next to a pot, squares from the checkerboard ground control objects, cracked mud, etc.) that were not filtered out when they should have been; FlyPix's workflow output contained much more undersired geometry, in comparison (too much to easily count).
+As for Type I error (False Positive, or detecting a pot when there is no pot to detect), there are a few polygons (e.g., green box next to a pot, squares from the checkerboard ground control objects, cracked mud, etc.) that were not filtered out when they should have been; FlyPix's workflow output contained much more undesired geometry, in comparison (too much to easily count).
 
 Regarding accuracy:
 
